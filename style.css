@@ -31,6 +31,7 @@ body * {
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 .container {
@@ -127,4 +128,15 @@ ul li a:hover {
 footer {
   padding: 24px 0;
   text-align: center;
+  font-size: 14px;
 } /*# sourceMappingURL=style.css.map */
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./Assets/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-url: url(./Assets/bg-desktop-light.jpg);
+  }
+}
