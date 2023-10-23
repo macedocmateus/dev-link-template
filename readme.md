@@ -40,7 +40,7 @@ O Devlinks é uma página de apresentação do usuário com links de redireciona
 
 Esse projeto está sob a licença MIT.
 
-##
+
 <p align="center">
 Feito com ♥ by Mateus de Castro Macedo 👨‍💻
 </p>
