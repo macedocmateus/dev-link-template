@@ -44,14 +44,6 @@ Esse projeto está sob a licença MIT.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <p align="center">
 Feito com ♥ by Mateus de Castro Macedo 👨‍💻
